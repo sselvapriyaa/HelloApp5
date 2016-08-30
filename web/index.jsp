@@ -11,7 +11,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>SELVAPRIYA ANAND AMIRTHARAJ</title> 
-       <link href="main.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="main.css" media="screen" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Gudea">
     </head>
     <body>
@@ -68,7 +68,7 @@
             <p class="primary-titles">AVS College of Arts and Science  | <span class="location"> Salem, Tamil Nadu</span></p>
             <p class="category-details">Lecturer, Computer Science Department<br> June 2003 - September 2003 </p>
             <p class="primary-titles"> Courses Taught</p>
-            <p class="category-details"> Database Management System,  Software Engineering, Data Communications & Networking , Computer Architecture, Microprocessor, Digital Logic Fundamentals</p>
+            <p class="category-details"> Database Management System,  Software Engineering, Data Communications and Networking , Computer Architecture, Microprocessor, Digital Logic Fundamentals</p>
             <h2 class="category-headers">Volunteer Experience</h2><hr>
             <p class="primary-titles">Elmbrook School District  | <span class="location"> Brookfield, Wisconsin</span></p>
             <p class="category-details">New Chromebook Preparation, Service Learning Practicum<br> Summer 2016-2017 </p>
